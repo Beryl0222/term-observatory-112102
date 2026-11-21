@@ -1,0 +1,48 @@
+[
+  {
+    "id": "C1",
+    "month": "2026-08",
+    "parent": "网式资源协同",
+    "senses": [
+      {
+        "sense": "C1-any",
+        "aliases": [
+          "织网",
+          "mesh dispatch"
+        ],
+        "notes": "跨节点协调工作，未区分所分配的资源"
+      }
+    ]
+  },
+  {
+    "id": "C2",
+    "month": "2026-09",
+    "parent": "网式资源协同",
+    "senses": [
+      {
+        "sense": "C1-gpu",
+        "aliases": [
+          "织网",
+          "跨域织网",
+          "mesh dispatch"
+        ],
+        "notes": "调度计算设备、显存或算力"
+      },
+      {
+        "sense": "C1-grid",
+        "aliases": [
+          "织网",
+          "mesh dispatch"
+        ],
+        "notes": "协同电力、储能或削峰"
+      },
+      {
+        "sense": "C1-other",
+        "aliases": [
+          "柔性织网"
+        ],
+        "notes": "光链路切换，另作光学专栏"
+      }
+    ]
+  }
+]
