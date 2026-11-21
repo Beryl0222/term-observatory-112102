@@ -6,7 +6,8 @@
     "serial": 1,
     "language": "zh",
     "field": "计算",
-    "text": "简报提到电站织网的实验。我们在三处采用跨域织网分配显存。"
+    "text": "简报提到电站织网的实验。我们在三处采用跨域织网分配显存。",
+    "received_at": "2026-08-31"
   },
   {
     "id": "A2",
@@ -15,7 +16,8 @@
     "serial": 1,
     "language": "en",
     "field": "计算",
-    "text": "We dispatch GPU memory across three sites. Prior work studied peak shaving."
+    "text": "We dispatch GPU memory across three sites. Prior work studied peak shaving.",
+    "received_at": "2026-08-31"
   },
   {
     "id": "A3",
@@ -24,7 +26,8 @@
     "serial": 1,
     "language": "zh",
     "field": "能源",
-    "text": "曾考虑织网，但没有分配储能。在两个电站做了负载均衡。"
+    "text": "曾考虑织网，但没有分配储能。在两个电站做了负载均衡。",
+    "received_at": "2026-08-31"
   },
   {
     "id": "A4",
@@ -33,7 +36,8 @@
     "serial": 1,
     "language": "zh",
     "field": "能源",
-    "text": "织网使本组储能站削峰，还验证了机房之间的显存调配。"
+    "text": "织网使本组储能站削峰，还验证了机房之间的显存调配。",
+    "received_at": "2026-08-31"
   },
   {
     "id": "A5",
@@ -42,7 +46,8 @@
     "serial": 1,
     "language": "zh",
     "field": "计算",
-    "text": "我们部署跨域织网，调出了显存；另一套织网平滑了电站峰值。"
+    "text": "我们部署跨域织网，调出了显存；另一套织网平滑了电站峰值。",
+    "received_at": "2026-10-02"
   },
   {
     "id": "A6",
@@ -51,7 +56,8 @@
     "serial": 1,
     "language": "zh",
     "field": "计算",
-    "text": "试验使用织网，但正文详述的资源种类未在摘要写出。"
+    "text": "试验使用织网，但正文详述的资源种类未在摘要写出。",
+    "received_at": "2026-10-02"
   },
   {
     "id": "A7",
@@ -60,7 +66,8 @@
     "serial": 1,
     "language": "zh",
     "field": "能源",
-    "text": "本文用织网试着协调三个储能站的负载。"
+    "text": "本文用织网试着协调三个储能站的负载。",
+    "received_at": "2026-10-02"
   },
   {
     "id": "A8",
@@ -69,7 +76,8 @@
     "serial": 1,
     "language": "en",
     "field": "计算",
-    "text": "Our cluster uses mesh dispatch for GPU memory, although the grid study does not."
+    "text": "Our cluster uses mesh dispatch for GPU memory, although the grid study does not.",
+    "received_at": "2026-10-02"
   },
   {
     "id": "A9",
@@ -78,7 +86,8 @@
     "serial": 2,
     "language": "zh",
     "field": "计算",
-    "text": "更正：本组调配的是跨站存储，并未分配显存。电站织网只出现在引用里。"
+    "text": "更正：本组调配的是跨站存储，并未分配显存。电站织网只出现在引用里。",
+    "received_at": "2026-09-07"
   },
   {
     "id": "A10",
@@ -88,7 +97,8 @@
     "language": "zh",
     "field": "能源",
     "text": "",
-    "retract": true
+    "retract": true,
+    "received_at": "2026-09-07"
   },
   {
     "id": "A11",
@@ -97,7 +107,8 @@
     "serial": 1,
     "language": "zh",
     "field": "光学",
-    "text": "我们调整了柔性织网的中继光路。"
+    "text": "我们调整了柔性织网的中继光路。",
+    "received_at": "2026-10-02"
   },
   {
     "id": "A12",
@@ -106,7 +117,8 @@
     "serial": 1,
     "language": "zh",
     "field": "计算",
-    "text": "本文的织网并未用于储能。我们用一张跨域织网把训练任务分进四个算力池。"
+    "text": "本文的织网并未用于储能。我们用一张跨域织网把训练任务分进四个算力池。",
+    "received_at": "2026-08-31"
   },
   {
     "id": "A13",
@@ -115,7 +127,8 @@
     "serial": 1,
     "language": "zh",
     "field": "能源",
-    "text": "电价稿称有织网。我们的实验确实采用织网把储能设备的尖峰负载平移。"
+    "text": "电价稿称有织网。我们的实验确实采用织网把储能设备的尖峰负载平移。",
+    "received_at": "2026-10-02"
   },
   {
     "id": "A14",
@@ -124,7 +137,8 @@
     "serial": 1,
     "language": "zh",
     "field": "能源",
-    "text": "本次通过织网在不同站之间分配算力，亦用同种协同方式做储能削峰。"
+    "text": "本次通过织网在不同站之间分配算力，亦用同种协同方式做储能削峰。",
+    "received_at": "2026-08-31"
   },
   {
     "id": "A15",
@@ -133,6 +147,7 @@
     "serial": 1,
     "language": "zh",
     "field": "能源",
-    "text": "我们采用织网，资源配置详表见附件，此处不说明涉及电池还是显存。"
+    "text": "我们采用织网，资源配置详表见附件，此处不说明涉及电池还是显存。",
+    "received_at": "2026-09-07"
   }
 ]
